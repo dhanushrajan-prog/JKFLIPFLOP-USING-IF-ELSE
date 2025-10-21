@@ -49,4 +49,5 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![Screenshot_2025-10-21-17-48-44-38_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/fda25204-ee99-4eca-9193-6a7a2c8b7e77)
 
 **RESULTS**
+<br>
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
