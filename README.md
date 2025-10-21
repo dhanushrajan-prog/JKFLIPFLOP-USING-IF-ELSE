@@ -37,12 +37,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
+![Screenshot_2025-10-21-17-48-12-22_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/a4ea0ba0-f741-4580-9cb0-96feb9e7540c)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![Screenshot_2025-10-21-17-48-29-73_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/5a2d15fb-7fd4-420d-8bc9-086cd6dcc678)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![Screenshot_2025-10-21-17-48-44-38_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/fda25204-ee99-4eca-9193-6a7a2c8b7e77)
 
 **RESULTS**
+Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
